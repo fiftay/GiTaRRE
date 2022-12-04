@@ -1,0 +1,13 @@
+{
+  "name": "gitarre",
+  "version": "0.1.0",
+  "private": true,
+  "description": "VCS playing CI/CD chords",
+  "keywords": [],
+  "bin": "dist/bin.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT"
+}
